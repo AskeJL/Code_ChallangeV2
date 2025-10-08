@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B9B348-C407-483E-8DFA-BDEA8BCFFC0E}|WeatherDocument\\WeatherDocument.csproj|c:\\users\\askel\\onedrive\\skrivebord\\weatherdocument\\weatherdocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B9B348-C407-483E-8DFA-BDEA8BCFFC0E}|WeatherDocument\\WeatherDocument.csproj|solutionrelative:weatherdocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B9B348-C407-483E-8DFA-BDEA8BCFFC0E}|WeatherDocument\\WeatherDocument.csproj|c:\\users\\askel\\onedrive\\skrivebord\\weatherdocument\\weatherdocument\\pdfhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B9B348-C407-483E-8DFA-BDEA8BCFFC0E}|WeatherDocument\\WeatherDocument.csproj|solutionrelative:weatherdocument\\pdfhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B9B348-C407-483E-8DFA-BDEA8BCFFC0E}|WeatherDocument\\WeatherDocument.csproj|c:\\users\\askel\\onedrive\\skrivebord\\weatherdocument\\weatherdocument\\weatherdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B9B348-C407-483E-8DFA-BDEA8BCFFC0E}|WeatherDocument\\WeatherDocument.csproj|solutionrelative:weatherdocument\\weatherdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AECF864-0AC7-4BB4-B9DF-53FD712AC1E7}|WeatherDocumentTests\\WeatherDocumentTests.csproj|c:\\users\\askel\\onedrive\\skrivebord\\weatherdocument\\weatherdocumenttests\\htmlbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AECF864-0AC7-4BB4-B9DF-53FD712AC1E7}|WeatherDocumentTests\\WeatherDocumentTests.csproj|solutionrelative:weatherdocumenttests\\htmlbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B9B348-C407-483E-8DFA-BDEA8BCFFC0E}|WeatherDocument\\WeatherDocument.csproj|c:\\users\\askel\\onedrive\\skrivebord\\weatherdocument\\weatherdocument\\metarfetchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B9B348-C407-483E-8DFA-BDEA8BCFFC0E}|WeatherDocument\\WeatherDocument.csproj|solutionrelative:weatherdocument\\metarfetchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AECF864-0AC7-4BB4-B9DF-53FD712AC1E7}|WeatherDocumentTests\\WeatherDocumentTests.csproj|c:\\users\\askel\\onedrive\\skrivebord\\weatherdocument\\weatherdocumenttests\\reporttestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AECF864-0AC7-4BB4-B9DF-53FD712AC1E7}|WeatherDocumentTests\\WeatherDocumentTests.csproj|solutionrelative:weatherdocumenttests\\reporttestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C507B097-17C9-49C6-A961-F8B153A10BE4}|WeatherDocuementUI\\WeatherDocuementUI.csproj|c:\\users\\askel\\onedrive\\skrivebord\\weatherdocument\\weatherdocuementui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C507B097-17C9-49C6-A961-F8B153A10BE4}|WeatherDocuementUI\\WeatherDocuementUI.csproj|solutionrelative:weatherdocuementui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B9B348-C407-483E-8DFA-BDEA8BCFFC0E}|WeatherDocument\\WeatherDocument.csproj|c:\\users\\askel\\onedrive\\skrivebord\\weatherdocument\\weatherdocument\\metar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B9B348-C407-483E-8DFA-BDEA8BCFFC0E}|WeatherDocument\\WeatherDocument.csproj|solutionrelative:weatherdocument\\metar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AECF864-0AC7-4BB4-B9DF-53FD712AC1E7}|WeatherDocumentTests\\WeatherDocumentTests.csproj|c:\\users\\askel\\onedrive\\skrivebord\\weatherdocument\\weatherdocumenttests\\metarfetchserviceintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AECF864-0AC7-4BB4-B9DF-53FD712AC1E7}|WeatherDocumentTests\\WeatherDocumentTests.csproj|solutionrelative:weatherdocumenttests\\metarfetchserviceintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MetarFetchServiceIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocumentTests\\MetarFetchServiceIntegrationTests.cs",
+              "RelativeDocumentMoniker": "WeatherDocumentTests\\MetarFetchServiceIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocumentTests\\MetarFetchServiceIntegrationTests.cs",
+              "RelativeToolTip": "WeatherDocumentTests\\MetarFetchServiceIntegrationTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:18:11.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MetarFetchService.cs",
+              "DocumentMoniker": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocument\\MetarFetchService.cs",
+              "RelativeDocumentMoniker": "WeatherDocument\\MetarFetchService.cs",
+              "ToolTip": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocument\\MetarFetchService.cs",
+              "RelativeToolTip": "WeatherDocument\\MetarFetchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:35:18.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlBuilderTests.cs",
+              "DocumentMoniker": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocumentTests\\HtmlBuilderTests.cs",
+              "RelativeDocumentMoniker": "WeatherDocumentTests\\HtmlBuilderTests.cs",
+              "ToolTip": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocumentTests\\HtmlBuilderTests.cs",
+              "RelativeToolTip": "WeatherDocumentTests\\HtmlBuilderTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:04:01.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocuementUI\\Form1.cs",
+              "RelativeDocumentMoniker": "WeatherDocuementUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocuementUI\\Form1.cs",
+              "RelativeToolTip": "WeatherDocuementUI\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:42:07.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Metar.cs",
+              "DocumentMoniker": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocument\\Metar.cs",
+              "RelativeDocumentMoniker": "WeatherDocument\\Metar.cs",
+              "ToolTip": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocument\\Metar.cs",
+              "RelativeToolTip": "WeatherDocument\\Metar.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:23:06.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocument\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherDocument\\Program.cs",
+              "ToolTip": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocument\\Program.cs",
+              "RelativeToolTip": "WeatherDocument\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:12:59.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocument\\WeatherDocumentService.cs",
+              "RelativeDocumentMoniker": "WeatherDocument\\WeatherDocumentService.cs",
+              "ToolTip": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocument\\WeatherDocumentService.cs",
+              "RelativeToolTip": "WeatherDocument\\WeatherDocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:12:57.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PDFHelper.cs",
+              "DocumentMoniker": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocument\\PDFHelper.cs",
+              "RelativeDocumentMoniker": "WeatherDocument\\PDFHelper.cs",
+              "ToolTip": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocument\\PDFHelper.cs",
+              "RelativeToolTip": "WeatherDocument\\PDFHelper.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:12:55.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportTestData.cs",
+              "DocumentMoniker": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocumentTests\\ReportTestData.cs",
+              "RelativeDocumentMoniker": "WeatherDocumentTests\\ReportTestData.cs",
+              "ToolTip": "C:\\Users\\askel\\OneDrive\\Skrivebord\\WeatherDocument\\WeatherDocumentTests\\ReportTestData.cs",
+              "RelativeToolTip": "WeatherDocumentTests\\ReportTestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:48:18.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
